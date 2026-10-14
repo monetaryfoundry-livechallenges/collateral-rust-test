@@ -1,0 +1,10 @@
+[package]
+name = "heldnav-risk-engine"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "heldnav"
+path = "src/bin/heldnav.rs"
+
+[dependencies]
